@@ -40,15 +40,3 @@
         <pre><code>TOKEN = "&lt;YOUR_BOT_TOKEN&gt;"</code></pre>
         <pre><code>CHAT_ID = "&lt;YOUR_CHAT_ID&gt;"</code></pre>
     </ol>
-
-<h2>Future Scope</h2>
-<ul>
-    <li>Advanced model enhancements (Deep Learning)</li>
-    <li>Real-time IoT integration</li>
-    <li>Mobile application for on-the-go monitoring</li>
-    <li>Cloud deployment (AWS, Google Cloud, Heroku)</li>
-    <li>Enhanced user dashboard with advanced analytics and visualizations</li>
-    <li>Predictive analytics for spare parts management</li>
-    <li>Automation of maintenance workflows</li>
-    <li>Global integration across multiple industries (manufacturing, energy, etc.)</li>
-</ul>
